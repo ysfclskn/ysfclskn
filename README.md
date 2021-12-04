@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/ysfclskn](github.com/ysfclskn)
 
-- 📝 I regularly write articles on [http://ysfclskn.com](ysfclskn.com)
+- 📝 I regularly write articles on [ysfclskn.com](http://ysfclskn.com)
 
 - 💬 Ask me about **QA,Javascript and Wordpress**
 

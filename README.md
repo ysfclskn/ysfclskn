@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
 <h3 align="center">A passionate QA from Turkey</h3>
 
-- 🔭 I’m currently working on **Mobile App Manual Tetsting**
+- 🔭 I’m currently working on **Mobile App Manual Testing**
 
 - 🌱 I’m currently learning **Selenium,Cucumber,Karate**
 

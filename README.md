@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Mobile App Manual Testing**
 
-- 🌱 I’m currently learning **Selenium,Cucumber,Karate**
+- 🌱 I’m currently learning **Selenium,Cucumber,Karate,Serenity,RestAssured**
 
 - 👨‍💻 All of my projects are available at [github.com/ysfclskn](github.com/ysfclskn)
 

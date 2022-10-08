@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **n11 Manual and Automation Testing**
 
-- 🌱 I’m currently learning **Selenium,Cucumber,Karate,Serenity,RestAssured,Flutter**
+- 🌱 I’m currently learning **Ruby, Capybara, Flutter, NodeJS**
 
 - 👨‍💻 All of my projects are available at [github.com/ysfclskn](github.com/ysfclskn)
 
 - 📝 I regularly write articles on [ysfclskn.com](http://ysfclskn.com)
 
-- 💬 Ask me about **QA,Javascript and Wordpress**
+- 💬 Ask me about **QA,Test Automation,Javascript and Wordpress**
 
 - 📫 How to reach me **ysfclskn94@hotmail.com**
 

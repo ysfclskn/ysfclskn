@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working on **n11 Manual and Automation Testing**
 
-- 🌱 I’m currently learning **Ruby, Capybara, Flutter, NodeJS**
+- 🌱 I’m currently learning **Ruby, Capybara, Flutter, NodeJS, Java**
 
 - 👨‍💻 All of my projects are available at [github.com/ysfclskn](github.com/ysfclskn)
-
-- 📝 I regularly write articles on [ysfclskn.com](http://ysfclskn.com)
 
 - 💬 Ask me about **QA,Test Automation,Javascript and Wordpress**
 

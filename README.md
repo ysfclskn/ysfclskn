@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
 <h3 align="center">A passionate Software Tester</h3>
 
-- 🔭 I’m currently working on **n11 Manual and Automation Testing**
+- 🔭 I’m currently working on **Software Testing**
 
 - 🌱 I’m currently learning **Ruby,Java,Capybara,Karate,Flutter,NodeJS**
 

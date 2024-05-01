@@ -1,22 +1,25 @@
-<h1 align="center">Hi , I'm Yusuf</h1>
-<h3 align="center">I'm Software Developer In Test</h3>
+# Yusuf Çalışkan
+## Software Developer In Test
 
-- 🔭 I’m currently working on **Software Test Automation**
+[![Mail](https://img.shields.io/badge/Mail-blue?style=flat&logo=microsoftoutlook&link=mail
+)](mailto:ysfclskn94@hotmail.com) [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ysfclskn/)  [![Github](https://img.shields.io/github/followers/ysfclskn?label=Follow&style=social)](https://github.com/ysfclskn) ![Website](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://ysfclskn.com)
 
-- 🌱 I’m currently learning **Ruby, Java, Selenium, Appium**
+- 🤔 I’m currently working **Software Test Automation**
 
-- 📫 How to reach me **ysfclskn94@hotmail.com**
+- 📫 How to reach me: ysfclskn94@hotmail.com
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ysfclskn](https://www.linkedin.com/in/ysfclskn)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ysfclskn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ysfclskn" height="30" width="40" /></a>
-</p>
+### 🖥 Skills
 
-<h3 align="left">Languages and Tools:</h3>
-![Bootstrap](https://img.shields.io/badge/-Java-05122A?style=flat-square&logo=Java&color=353535) ![Bootstrap](https://img.shields.io/badge/-Ruby-05122A?style=flat-square&logo=Ruby&color=353535) ![Bootstrap](https://img.shields.io/badge/-Javascript-05122A?style=flat-square&logo=Javascript&color=353535) ![Bootstrap](https://img.shields.io/badge/-Selenium-05122A?style=flat-square&logo=Selenium&color=353535) ![Bootstrap](https://img.shields.io/badge/-Appium-05122A?style=flat-square&logo=Appium&color=353535) ![Bootstrap](https://img.shields.io/badge/-Capybara-05122A?style=flat-square&logo=Capybara&color=353535) ![Bootstrap](https://img.shields.io/badge/-Rest%20Assured-05122A?style=flat-square&logo=Rest-Assured&color=353535) ![Bootstrap](https://img.shields.io/badge/-Karate-05122A?style=flat-square&logo=Karate&color=353535) ![Bootstrap](https://img.shields.io/badge/-Cypress-05122A?style=flat-square&logo=Cypress&color=353535)
+- Web Test Automation
+- Mobile Test Automation
+- API Test Automation
+- CI/CD Integration
+- Manual Test
+### ⚙️ Tech Stack
 
-<h3 align="left">Github Stats</h3>
+![Bootstrap](https://img.shields.io/badge/-Java-05122A?style=flat-square&logo=Java&color=353535) ![Bootstrap](https://img.shields.io/badge/-Ruby-05122A?style=flat-square&logo=Ruby&color=353535) ![Bootstrap](https://img.shields.io/badge/-Javascript-05122A?style=flat-square&logo=Javascript&color=353535) ![Bootstrap](https://img.shields.io/badge/-Selenium-05122A?style=flat-square&logo=Selenium&color=353535) ![Bootstrap](https://img.shields.io/badge/-Appium-05122A?style=flat-square&logo=Appium&color=353535) ![Bootstrap](https://img.shields.io/badge/-Rest%20Assured-05122A?style=flat-square&logo=Rest-Assured&color=353535) ![Bootstrap](https://img.shields.io/badge/-Karate-05122A?style=flat-square&logo=Karate&color=353535) ![Bootstrap](https://img.shields.io/badge/-Cypress-05122A?style=flat-square&logo=Cypress&color=353535) ![Bootstrap](https://img.shields.io/badge/-Cucumber-05122A?style=flat-square&logo=Cucumber&color=353535) ![Bootstrap](https://img.shields.io/badge/-NodeJS-05122A?style=flat-square&logo=NodeJS&color=353535)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ysfclskn&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<div>
+  <img align="center width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ysfclskn&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="ysfclskn" />
+</div>

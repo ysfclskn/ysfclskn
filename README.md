@@ -4,7 +4,7 @@
 [![Mail](https://img.shields.io/badge/Mail-blue?style=flat&logo=microsoftoutlook&link=mail
 )](mailto:ysfclskn94@hotmail.com) [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ysfclskn/)  [![Github](https://img.shields.io/github/followers/ysfclskn?label=Follow&style=social)](https://github.com/ysfclskn) ![Website](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://ysfclskn.com)
 
-- 🤔 I’m currently working **Software Test Automation**
+- 🤔 I’m currently working **Software Quality Assurance And Test Automation**
 
 - 📫 How to reach me: ysfclskn94@hotmail.com
 
